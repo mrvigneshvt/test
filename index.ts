@@ -7,10 +7,13 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 
-const token = ''
-const apiID = ''
-const apiHash = ""
-const mongo = ''
+const token = '6232886409:AAH8YTkGE0bqNM5l8-uxfpjoGPoSuJC3DYk'
+
+const apiID = 29033643
+
+const apiHash = "a8cc5f16eddd5e0083b2534ecd31123c"
+
+const mongo = 'mongodb+srv://sodha123:sodha123@cluster0.ncclx8i.mongodb.net/?retryWrites=true&w=majority'
 
 hello()
 
